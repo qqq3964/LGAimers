@@ -13,11 +13,11 @@ autogluon
 ```
 - 최종 등수 500팀중 10등
 
+![image](https://user-images.githubusercontent.com/97833069/232242074-fab856ee-c736-4af4-8ae8-3595645eae41.png)
+
 ```
 대회 성적 Dacon
 https://dacon.io/competitions/official/236080/leaderboard
 ```
-
-![image](https://user-images.githubusercontent.com/97833069/232242074-fab856ee-c736-4af4-8ae8-3595645eae41.png)
 
 ![image](https://user-images.githubusercontent.com/97833069/232241969-a12cf855-48c0-4e41-a40b-1f0686ef7c44.png)
